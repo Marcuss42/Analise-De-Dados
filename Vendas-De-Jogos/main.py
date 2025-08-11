@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-DATASET_NAME = "vgsales.csv"
+DATASET_NAME = "Vendas-De-Jogos/vgsales.csv"
 min_year = None
 max_year = None
 
